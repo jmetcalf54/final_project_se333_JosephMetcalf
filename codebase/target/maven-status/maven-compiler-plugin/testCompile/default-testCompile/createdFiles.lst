@@ -1,6 +1,7 @@
 org\apache\commons\lang3\text\translate\UnicodeEscaperTest.class
 org\apache\commons\lang3\concurrent\LazyInitializerTest$1.class
 org\apache\commons\lang3\exception\ExceptionUtilsTest$ExceptionWithoutCause.class
+org\apache\commons\lang3\builder\PhaseIVBuilderCoverageTest.class
 org\apache\commons\lang3\concurrent\TimedSemaphoreTest.class
 org\apache\commons\lang3\text\StrTokenizerTest.class
 org\apache\commons\lang3\builder\ToStringStyleConcurrencyTest.class
@@ -8,6 +9,7 @@ org\apache\commons\lang3\time\FastDateFormatTest$2.class
 org\apache\commons\lang3\reflect\MethodUtilsTest.class
 org\apache\commons\lang3\text\ExtendedMessageFormatTest$LowerCaseFormat.class
 org\apache\commons\lang3\AnnotationUtilsTest$NestAnnotation.class
+org\apache\commons\lang3\builder\PhaseIVBuilderCoverageTest$TestObject.class
 org\apache\commons\lang3\builder\EqualsBuilderTest$TestTSubObject.class
 org\apache\commons\lang3\builder\HashCodeBuilderAndEqualsBuilderTest.class
 org\apache\commons\lang3\event\EventListenerSupportTest$2$1.class

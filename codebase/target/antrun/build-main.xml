@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <project name="maven-antrun-" default="main"  >
 <target name="main">
-  <copy todir="C:\Users\Joseph Metcalf\Downloads\codebase\target/apidocs/META-INF">
-    <fileset dir="C:\Users\Joseph Metcalf\Downloads\codebase">
+  <copy todir="C:\Users\Joseph Metcalf\Desktop\final_project_se333_JosephMetcalf\codebase\target/apidocs/META-INF">
+    <fileset dir="C:\Users\Joseph Metcalf\Desktop\final_project_se333_JosephMetcalf\codebase">
       <include name="LICENSE.txt"/>
       <include name="NOTICE.txt"/>
     </fileset>
